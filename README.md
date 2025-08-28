@@ -28,7 +28,7 @@ This project is designed to facilitate the management of medical clinics by prov
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/medical-clinic-management-system.git
+    https://github.com/suletete/clinic-mgt
     cd medical-clinic-management-system
     ```
 
